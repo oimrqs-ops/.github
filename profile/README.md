@@ -2,7 +2,7 @@
 
 Scoped technical delivery for web, WordPress, automation, APIs, data cleanup, QA and AI workflow wiring.
 
-This GitHub org is a public proof stack. The repos and routes here are meant to show how work is scoped, checked and handed off, not to imply fake client cases, private screenshots or guaranteed results.
+This GitHub profile is a public proof stack. The repos and routes here are meant to show how work is scoped, checked and handed off, not to imply fake client cases, private screenshots or guaranteed results.
 
 ## Start Here
 
@@ -33,4 +33,3 @@ This GitHub org is a public proof stack. The repos and routes here are meant to 
 Most public examples are synthetic concept demos or proof-of-process assets. That is intentional: they are safe to inspect without private client data, credentials, orders, invoices, chat logs or account access.
 
 A good fit is a focused technical problem with a reviewable output: a broken lead path, unreliable automation, messy data, checkout risk, dashboard bug, API/webhook issue, no-code app first pass or AI workflow that needs logs, fallback paths and human review points.
-
