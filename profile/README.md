@@ -17,6 +17,7 @@ This GitHub profile is a public proof stack. The repos and routes here are meant
 - Workflow reliability rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WORKFLOW-RELIABILITY-RESCUE/
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
+- React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
 
 ## Useful Public Kits
 
@@ -32,4 +33,4 @@ This GitHub profile is a public proof stack. The repos and routes here are meant
 
 Most public examples are synthetic concept demos or proof-of-process assets. That is intentional: they are safe to inspect without private client data, credentials, orders, invoices, chat logs or account access.
 
-A good fit is a focused technical problem with a reviewable output: a broken lead path, unreliable automation, messy data, checkout risk, dashboard bug, API/webhook issue, no-code app first pass or AI workflow that needs logs, fallback paths and human review points.
+A good fit is a focused technical problem with a reviewable output: a broken lead path, unreliable automation, messy data, checkout risk, dashboard bug, API/webhook issue, no-code app first pass, React Native / Expo MVP architecture pass or AI workflow that needs logs, fallback paths and human review points.
