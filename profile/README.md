@@ -7,12 +7,14 @@ This GitHub profile is a public proof stack. The repos and routes here are meant
 ## Start Here
 
 - Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Curated examples / proof picker: https://oimrqs-ops.x9kqz.uk/examples/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
 - Main site: https://oimrqs-ops.x9kqz.uk/
 
 ## Problem-Shaped Proof
 
+- Buyer proof picker for profile fields: https://oimrqs-ops.x9kqz.uk/examples/
 - WordPress form and booking rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WP-FORM-BOOKING-RESCUE/
 - Workflow reliability rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WORKFLOW-RELIABILITY-RESCUE/
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
