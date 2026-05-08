@@ -18,6 +18,7 @@ This GitHub profile is a public proof stack. The repos and routes here are meant
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
 - React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
+- Sheets / CRM reporting repair: https://oimrqs-ops.x9kqz.uk/EXEMPLO-SHEETS-CRM-REPORTING-REPAIR/
 
 ## Useful Public Kits
 
