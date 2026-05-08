@@ -19,6 +19,7 @@ This GitHub profile is a public proof stack. The repos and routes here are meant
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
 - React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
 - Sheets / CRM reporting repair: https://oimrqs-ops.x9kqz.uk/EXEMPLO-SHEETS-CRM-REPORTING-REPAIR/
+- Public website revenue-leak audit: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WEBSITE-REVENUE-LEAK-AUDIT/
 
 ## Useful Public Kits
 
