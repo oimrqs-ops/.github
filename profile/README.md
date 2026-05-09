@@ -1,8 +1,10 @@
 # oimrqs ops
 
-Scoped technical delivery for web, WordPress, automation, APIs, data cleanup, QA and AI workflow wiring.
+Web, automation, data, APIs and MVPs taken from messy request to working first pass.
 
-This GitHub profile is a public proof stack. The repos and routes here are meant to show how work is scoped, checked and handed off, not to imply fake client cases, private screenshots or guaranteed results.
+I solve the practical technical layer buyers usually need before a project can move: diagnose the blocker, build the usable slice, test the real path, and leave proof that the work can be reviewed without guesswork.
+
+This GitHub profile is a public proof stack. The repos and routes here show how work is planned, implemented, checked and handed off. They do not imply fake client cases, private screenshots, guaranteed revenue or invisible credentials.
 
 ## Start Here
 
@@ -11,6 +13,13 @@ This GitHub profile is a public proof stack. The repos and routes here are meant
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
 - Main site: https://oimrqs-ops.x9kqz.uk/
+
+## Buyer Confidence Checks
+
+- Need to know if I can take over an unclear request? Start with the proof picker and compare the problem paths.
+- Need implementation discipline? Open the public kits: each one is built around input, output, validation and handoff.
+- Need visual confidence before accepting a bid? Use the portfolio routes first, then the matching repo or proof page.
+- Need platform-safe boundaries? Marketplace work keeps scope, files and payment inside the platform where the conversation started.
 
 ## Problem-Shaped Proof
 
